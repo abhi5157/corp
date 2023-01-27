@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abhi5157/corp/static/css/main.04e7c0f1.css",
+    "main.js": "/abhi5157/corp/static/js/main.3900b00e.js",
+    "static/media/BondsMain.jpg": "/abhi5157/corp/static/media/BondsMain.dc8944cbb41305037cca.jpg",
+    "static/media/high returns new TM.jpg": "/abhi5157/corp/static/media/high returns new TM.0994fd14985d1aeab398.jpg",
+    "static/media/demo.jpg": "/abhi5157/corp/static/media/demo.7442b264be9a61f9cc5d.jpg",
+    "index.html": "/abhi5157/corp/index.html",
+    "main.04e7c0f1.css.map": "/abhi5157/corp/static/css/main.04e7c0f1.css.map",
+    "main.3900b00e.js.map": "/abhi5157/corp/static/js/main.3900b00e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e7c0f1.css",
+    "static/js/main.3900b00e.js"
+  ]
+}
